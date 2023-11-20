@@ -160,7 +160,7 @@
   transition: 0.2s ease-in-out;
 }
 
-.hero-btn:hover {
+.btn:hover {
   background: var(--black);
 }
 
